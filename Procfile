@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run RFR.py
+web: sh setup.sh && streamlit run NubilaML.py
